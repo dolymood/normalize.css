@@ -45,8 +45,6 @@ See https://necolas.github.io/normalize.css/latest/normalize.css
 
 * Chrome (last two)
 * Edge (last two)
-* Firefox (last two)
-* Firefox ESR
 * Internet Explorer 8+
 * Opera (last two)
 * Safari 6+
