@@ -23,13 +23,9 @@ npm install --save normalize.css
 bower install --save normalize-css
 ```
 
-**CDN**
-
-See https://cdnjs.com/libraries/normalize
-
 **Download**
 
-See https://necolas.github.io/normalize.css/latest/normalize.css
+See https://raw.githubusercontent.com/dolymood/normalize.css/master/normalize.css
 
 
 ## What does it do?
